@@ -4,10 +4,7 @@ List of design patterns template
 ## Tecnologies
 
 * Java 8
-* Spring Boot
 * Maven 3
-  * Release plugin
-  * FindBugs plugin
 * JUnit
 
 ## Builds
