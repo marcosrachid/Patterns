@@ -33,3 +33,4 @@ To generate versioned builds for production and homologation enviroments:
 * Composite
 * State
 * Proxy
+* Strategy
