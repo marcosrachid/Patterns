@@ -34,6 +34,7 @@ To generate versioned builds for production and homologation enviroments:
 * State
 * Proxy
 * Strategy
+* Builder
 
 ## References
 
