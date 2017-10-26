@@ -34,3 +34,10 @@ To generate versioned builds for production and homologation enviroments:
 * State
 * Proxy
 * Strategy
+
+## References
+
+Link
+-------------
+<http://www.oodesign.com>
+<https://sourcemaking.com>
