@@ -13,11 +13,6 @@ To generate local builds with maven:
 ```bash
  mvn clean install
 ``` 
-To generate versioned builds for production and homologation enviroments:
-```
-  mvn release:clean
-  mvn release:prepare
-```
 
 ## Design Pattern List
 
