@@ -37,7 +37,7 @@ To generate versioned builds for production and homologation enviroments:
 
 ## References
 
-Link
--------------
-<http://www.oodesign.com>
-<https://sourcemaking.com>
+Reference | Link
+------------- | -------------
+oodesign | <http://www.oodesign.com>
+sourcemaking | <https://sourcemaking.com>
