@@ -16,20 +16,20 @@ To generate local builds with maven:
 
 ## Design Pattern List
 
-* Observer
-* Decorator
-* Factory
-* Singleton
-* Command
-* Adapter
-* Facade
+* Observer :white_check_mark:
+* Decorator :white_check_mark:
+* Factory :white_check_mark:
+* Singleton :white_check_mark:
+* Command :white_check_mark:
+* Adapter :white_check_mark:
+* Facade :white_check_mark:
 * Template
-* Iterator
-* Composite
+* Iterator :white_check_mark:
+* Composite :white_check_mark:
 * State
-* Proxy
+* Proxy :white_check_mark:
 * Strategy
-* Builder
+* Builder :white_check_mark:
 
 ## References
 
