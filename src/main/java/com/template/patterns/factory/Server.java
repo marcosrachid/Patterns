@@ -1,5 +1,12 @@
 package com.template.patterns.factory;
 
+/**
+ * 
+ * @see <a href=
+ *      "https://www.journaldev.com/1392/factory-design-pattern-in-java">Factory
+ *      pattern</a>
+ *
+ */
 public class Server extends Computer {
 
 	private String ram;
