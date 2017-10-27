@@ -37,3 +37,4 @@ Reference | Link
 ------------- | -------------
 oodesign | <http://www.oodesign.com>
 sourcemaking | <https://sourcemaking.com>
+journaldev | <https://www.journaldev.com>
