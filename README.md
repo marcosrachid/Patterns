@@ -23,12 +23,12 @@ To generate local builds with maven:
 * Command :white_check_mark:
 * Adapter :white_check_mark:
 * Facade :white_check_mark:
-* Template
+* Template :white_check_mark:
 * Iterator :white_check_mark:
 * Composite :white_check_mark:
-* State
+* State :white_check_mark:
 * Proxy :white_check_mark:
-* Strategy
+* Strategy :white_check_mark:
 * Builder :white_check_mark:
 
 ## References
